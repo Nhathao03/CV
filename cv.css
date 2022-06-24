@@ -120,11 +120,11 @@ body{
 
 .websitedone{
     width: 260px;
-    height: 100px;
+    height: 185px;
     background: rgba(196, 196, 196, 0.35) ;
     border-radius: 10px;
     border: none;
-    margin-top: 40px;
+    margin-top: 20px;
     margin-left: 15px;
 }
 
@@ -134,5 +134,55 @@ body{
     margin-top: 7px;
     margin-left: 20px;
     font-size: 16px;
-    margin-bottom: 5px;
+    margin-bottom: 0px;
 }
+
+.websitedone a{
+    text-decoration: none;
+    color: white;
+}
+
+.websitedone li{
+    margin-left: 20px;
+    color: white;
+}
+
+.information2{
+    width: 296px;
+    height: 820px;
+    background: white;
+    border: none;
+    border-radius: 15px;
+    margin-top: 15px;
+    margin-left: 20px;
+    float: left;
+}
+
+.skill{
+    width: 150px;
+    height: 25px;
+    background: rgba(84, 84, 84, 1);
+    border: none;
+    border-radius: 7px;
+    margin-left: 10px;
+}
+
+.skill h4{
+    color: white;
+    text-align: center;
+    padding-top: 4px;
+}
+
+.skill hr{
+    width: 120px;
+    float: top;
+    margin-left: 150px;
+    margin-top: -32px;
+    border: 1px solid rgba(84, 84, 84, 1);
+}
+
+.skill img{
+    gap: 20%;
+}
+
+
